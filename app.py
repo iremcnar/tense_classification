@@ -103,3 +103,4 @@ def main():
 # Çalıştır
 if __name__ == '__main__':
     start_server(main, port=8080, debug=True)
+#http://192.168.2.212:8080/
